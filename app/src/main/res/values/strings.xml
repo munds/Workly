@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SteveJobs</string>
+    <string name="title_activity_login">Login</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sign_out_button_name">Sign Out</string>
+    <string name="status_signing_in">Signing you in!</string>
+    <string name="status_signed_out">Signing you out!</string>
+    <string name="play_services_error">PLAY SERVICES ERROR!</string>
+    <string name="close">Closing</string>
+    <string name="title_activity_workly">workly</string>
+    <string name="Fragment1">Aww, no jobs! Good job!</string>
+    <string name="Fragment2">You have no messages</string>
+    <string name="Fragment3">Fill out your profile!</string>
+</resources>
